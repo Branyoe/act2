@@ -1,0 +1,18 @@
+.textCenter{
+  text-align: center;
+}
+
+.backColorWhite{
+  background-color: white;
+}
+
+.txt300{
+  font-size: 300%;
+}
+
+body{
+  background-color: rgb(51, 51, 51);
+}
+.navColor{
+  background-color: black;
+}
